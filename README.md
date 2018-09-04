@@ -1,5 +1,7 @@
 # Vorgänge Auslesen API
 
+# How to use
+
 ##### Aktuelle Version: 2.3
 
 API Definition zum Auslesen von Vorgängen aus der Europace-Plattform aus Sicht eines Vertriebes.
@@ -59,7 +61,7 @@ Um die Credentials zu erhalten, erfagen Sie beim Helpdesk der Plattform die Zuga
 2. Aus der JSON-Antwort das JWToken (access_token) entnehmen
 3. Bei weiteren Requests muss dieses JWToken als Authorization Header mitgeschickt werden.
 
-### Quickstart
+# Dokumentation
 
 ##### Den Status eines Vorgangs setzen
 
