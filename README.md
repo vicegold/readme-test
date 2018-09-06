@@ -20,7 +20,6 @@ werden. Dazu empfehlen wir das Tool [Swagger Codegen](https://github.com/swagger
 ### Generierung des Clients
 
 | test | test |
-|------|------|
 | a    | b    |
 | 1    | 0    |
 | ok 	 | nein |
