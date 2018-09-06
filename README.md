@@ -31,13 +31,13 @@ werden. Dazu empfehlen wir das Tool [Swagger Codegen](https://github.com/swagger
 2. Client mit folgendem Kommando generieren:
 
 Example:
-```
+```java
 java -jar swagger-codegen-cli-2.2.2.jar generate -i swagger.yaml -l java -c codegen-config-file.json -o europace-api-client
 ```
 
 Example **codegen-config-file.json**:
 
-```
+```json
 {
   "artifactId": "europace-api-client",
   "groupId": "de.europace.api",
