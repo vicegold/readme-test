@@ -4,8 +4,9 @@
 
 ##### Aktuelle Version: 2.3
 
-| Verfügbarkeit                 | 98%                                                       |
+|                               |                                                           |
 |-------------------------------|-----------------------------------------------------------|
+| Verfügbarkeit                 | 98%                                                       |
 | Geschwindigkeit    		| not defined - Antwort innerhalb von 5s ist zu erwarten    |
 | Empfohlene Abbruchzeit    	| 10s    						    |
 
