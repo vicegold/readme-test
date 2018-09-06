@@ -1,4 +1,4 @@
-# Vorgänge Auslesen API
+# Vorgänge auslesen API {.sth}
 
 # How to use
 
