@@ -4,8 +4,11 @@
 
 ##### Aktuelle Version: 2.3
 
-| A1 | B1 |
-| A2 | B2 |
+| test | test |
+|------|------|
+| a    | b    |
+| 1    | 0    |
+| ok 	 | nein |
 
 API Definition zum Auslesen von Vorgängen aus der Europace-Plattform aus Sicht eines Vertriebes.
 
@@ -23,6 +26,7 @@ werden. Dazu empfehlen wir das Tool [Swagger Codegen](https://github.com/swagger
 ### Generierung des Clients
 
 | test | test |
+|------|------|
 | a    | b    |
 | 1    | 0    |
 | ok 	 | nein |
