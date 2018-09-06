@@ -4,6 +4,9 @@
 
 ##### Aktuelle Version: 2.3
 
+| A1 | B1 |
+| A2 | B2 |
+
 API Definition zum Auslesen von Vorgängen aus der Europace-Plattform aus Sicht eines Vertriebes.
 
 ### Swagger Spezifikationen
