@@ -4,11 +4,10 @@
 
 ##### Aktuelle Version: 2.3
 
-| test | test |
-|------|------|
-| a    | b    |
-| 1    | 0    |
-| ok 	 | nein |
+| Verfügbarkeit                 | 98%                                                       |
+|-------------------------------|-----------------------------------------------------------|
+| Geschwindigkeit    		| not defined - Antwort innerhalb von 5s ist zu erwarten    |
+| Empfohlene Abbruchzeit    	| 10s    						    |
 
 API Definition zum Auslesen von Vorgängen aus der Europace-Plattform aus Sicht eines Vertriebes.
 
