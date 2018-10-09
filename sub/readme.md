@@ -1,6 +1,7 @@
 # Diese Überschrift wird ignoriert
 
-# Obwohl dies auch eine h1 ist wird die 2. nicht ignoriert.
+# h1 
+Obwohl dies auch eine h1 ist wird die 2. nicht ignoriert.
 
 ## Headline 2 h2
 
