@@ -10,9 +10,6 @@
 
 ###### Headline 5 h5
 
-####### Headline 6 h6
-
-
 - Listenelement 1
 - Listenelement 2
 - Listenelement 3
